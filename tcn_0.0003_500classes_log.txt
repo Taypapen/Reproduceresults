@@ -1,1 +1,2 @@
 Model has been successfully loaded from /media/taylorpap/1TBM2/DatasetML/Lipreading_using_Temporal_Convolutional_Networks-master/train_logs/tcn/2022-03-06T22.04.03/ckpt.best.pth.tar
+Test-time performance on partition test: Loss: 0.5086	Acc:0.8674
